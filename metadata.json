@@ -1,0 +1,6 @@
+{
+  "name": "Titan Elite",
+  "description": "The premier K-Bodybuilding platform. Meet elite athletes, check upcoming championships, select training gear, and generate custom workout routines with AI Titans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
